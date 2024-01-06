@@ -1,0 +1,48 @@
+.nav-title{
+
+    font-size: medium;
+    margin-right: 20px;
+  
+     
+
+  
+}
+
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav>ul{
+
+    display: flex;
+    text-align: center;
+   
+  
+}
+nav li{
+
+    list-style: none;
+    margin-right: 60px;
+    align-items: center;
+
+    nav a{
+
+        
+        text-decoration:none;
+        color: green;
+    }
+   
+   
+ 
+
+
+
+}
+.color{
+    background: #34A853;
+
+}
